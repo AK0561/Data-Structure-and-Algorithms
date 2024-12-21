@@ -25,7 +25,7 @@ The solutions are implemented in the following programming language:
 ## Topics Covered  
 This repository includes solutions for problems related to:  
 - **Arrays and Strings**  
-- **Linked Lists**  
+- **Linked List**  
 - **Stacks and Queues**  
 - **Trees and Graphs**  
 - **Recursion and Backtracking**  
